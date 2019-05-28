@@ -7,4 +7,5 @@
   * [查询所有用户](yong-hu-jie-kou/cha-xun-suo-you-yong-hu.md)
   * [导出所有用户](yong-hu-jie-kou/dao-chu-suo-you-yong-hu.md)
   * [新增用户](yong-hu-jie-kou/xin-zeng-yong-hu.md)
+  * [修改用户](yong-hu-jie-kou/xiu-gai-yong-hu.md)
 
