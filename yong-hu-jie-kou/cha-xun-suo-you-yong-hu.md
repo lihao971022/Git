@@ -146,16 +146,16 @@ GET
 
 | 返回值 | 返回值说明 |
 | :--- | :--- |
-|  total | 总条数 |
-|  rows | 数组 |
-|  userId | 用户id |
-|  username | 用户名称 |
-|  deptName | 部门名称 |
-|  email | 邮箱 |
-|  mobile | 手机 |
-|  status | 状态  0=锁定,1=有效 |
-|  crateTime | 创造时间 |
-|  ssex | 性别 0=男,1=女,2=保密 |
+| total | 总条数 |
+| rows | 数组 |
+| userId | 用户id |
+| username | 用户名称 |
+| deptName | 部门名称 |
+| email | 邮箱 |
+| mobile | 手机 |
+| status | 状态  0=锁定,1=有效 |
+| crateTime | 创造时间 |
+| ssex | 性别 0=男,1=女,2=保密 |
 
 
 
