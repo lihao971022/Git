@@ -8,6 +8,10 @@
 
 参数:
 
+```
+后台接收参数:  String username, String password, String code, Boolean rememberMe
+```
+
 | 参数名 | 参数说明 |
 | :--- | :--- |
 | username | 用户名 |
