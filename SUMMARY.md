@@ -13,4 +13,5 @@
   * [用户注册](yong-hu-jie-kou/yong-hu-zhu-ce.md)
   * [修改用户个人资料](yong-hu-jie-kou/xiu-gai-yong-hu-ge-ren-zi-liao.md)
   * [修改密码](yong-hu-jie-kou/xiu-gai-mi-ma.md)
+  * [检查用户名](yong-hu-jie-kou/jian-cha-yong-hu-ming.md)
 
