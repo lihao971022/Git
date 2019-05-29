@@ -2,6 +2,12 @@
 
 请求方式:   GET
 
+```
+图形验证码保存到session中
+response.setContentType("image/gif");
+session.setAttribute(CODE_KEY, captcha.text().toLowerCase());
+```
+
 登录接口地址:  [http://192.168.142.6:8080/login](http://192.168.142.6:8080/login)
 
 请求方式:  POST
