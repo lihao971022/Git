@@ -11,4 +11,5 @@
   * [删除用户](yong-hu-jie-kou/shan-chu-yong-hu.md)
   * [根据用户id查询](yong-hu-jie-kou/gen-ju-yong-hu-id-cha-xun.md)
   * [用户注册](yong-hu-jie-kou/yong-hu-zhu-ce.md)
+  * [修改用户个人资料](yong-hu-jie-kou/xiu-gai-yong-hu-ge-ren-zi-liao.md)
 
