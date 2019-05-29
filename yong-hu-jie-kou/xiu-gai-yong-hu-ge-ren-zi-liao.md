@@ -1,6 +1,6 @@
 接口地址:
 
-http://192.168.142.6:8080/user/updateUserProfile
+[http://192.168.142.6:8080/user/updateUserProfile](http://192.168.142.6:8080/user/updateUserProfile)
 
 请求方式:
 
@@ -15,7 +15,7 @@ POST
 | 参数名 | 参数说明 |
 | :--- | :--- |
 | username | 用户名 |
-| oldusername | 老用户名 |
+| oldusername | 老用户名 ,通过获取修改之前用户名 |
 | userId | 用户ID |
 | ssex | 性别 .通过单选框显示 |
 | mobile | 手机 |
