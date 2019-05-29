@@ -1,12 +1,14 @@
 查询所有用户信息接口地址:
 
-[http://192.168.142.6:8080/user/list?pageSize=10&pageNum=1&username=&ssex=&status=&\_=1559035165460](http://192.168.142.6:8080/user/list?pageSize=10&pageNum=1&username=&ssex=&status=&_=1559035165460)
+[http://192.168.142.6:8080/user/list?pageSize=10&pageNum=1&username=&ssex=&status=](http://192.168.142.6:8080/user/list?pageSize=10&pageNum=1&username=&ssex=&status=&_=1559035165460)
 
 请求方式:
 
 GET
 
 参数:
+
+默认查询全部,查询条件如下:
 
 | 参数名 | 参数说明 |
 | :--- | :--- |
