@@ -8,4 +8,6 @@
   * [导出所有用户](yong-hu-jie-kou/dao-chu-suo-you-yong-hu.md)
   * [新增用户](yong-hu-jie-kou/xin-zeng-yong-hu.md)
   * [修改用户](yong-hu-jie-kou/xiu-gai-yong-hu.md)
+  * [删除用户](yong-hu-jie-kou/shan-chu-yong-hu.md)
+  * [根据用户id查询](yong-hu-jie-kou/gen-ju-yong-hu-id-cha-xun.md)
 
